@@ -1,4 +1,4 @@
-**TATA Data Visualisation Empowering Business with Effective Insights**
+# TATA Data Visualisation Empowering Business with Effective Insights
 
 The virtual experience programme is provided by Tata iQ or Tata Insights and Quants. I discover how passionate, multidisciplinary experts utilise data visualisation technologies like Tableau and Power BI to take on some of the most difficult business problems and uncover fascinating insights buried in the mountains of produced data.
 The programme demonstrates the kind of issues dealt with by Tata Insights and Quants every day and makes an effort to imitate the difficulties an individual could have.
@@ -12,7 +12,7 @@ There are 4 modules in this virtual experience programme.
 
 ♦ Communicating Insights and Analysis
 
-**Task 1 - Framing the Business Scenario**
+## Task 1 - Framing the Business Scenario
 
 Learn how to anticipate the questions your business leaders will need answers to.
 
@@ -33,7 +33,7 @@ You’ve been provided a dataset in the resources below to use as the basis for 
 Create a set of four questions that you anticipate each business leader will ask and want to know the answers to. Make sure you differentiate your questions, as both the CEO and CMO view business decisions through different lenses.
 Eight (8) questions in total (4 for the CEO and 4 for the CMO)
 
-**Task 2 - Choosing the Right Visuals**
+## Task 2 - Choosing the Right Visuals
 
 Learn which visuals are most effective in a given scenario
 
@@ -48,7 +48,7 @@ In this task, you will be required to read the questions carefully and understan
 You will be provided resources on how to select visuals based on the different scenarios, these are available in the resources section. These resources will help you get an idea on which visual to select for the given business scenario and will also guide you on how to choose the right chart or graph for your data. Each question will contain a unique scenario and you will be expected to answer the questions based on that scenario.
 To complete this task, answer the multiple-choice quiz. Start the quiz by clicking 'Click here to start the task' in section 5 below. Please note there are 5 multiple choice questions to complete in this task. Please be patient as each question loads.
 
-**Task 3 - Creating Effective Visuals**
+## Task 3 - Creating Effective Visuals
 
 Apply your under and create visuals based on business scenarios
 
@@ -81,7 +81,7 @@ Should you get stuck, please reference the Visuals Hints document in the resourc
 
 **Question 4:** The CEO is looking to gain insights on the demand for their products. He wants to look at all countries and see which regions have the greatest demand for their products. Once the CEO gets an idea of the regions that have high demand, he will initiate an expansion strategy which will allow the company to target these areas and generate more business from these regions. He wants to view the entire data on a single view without the need to scroll or hover over the data points to identify the demand. There is no need to show data for the United Kingdom as the CEO is more interested in viewing the countries that have expansion opportunities.
 
-**Task 4 - Communicating Insights and Analysis**
+## Task 4 - Communicating Insights and Analysis
 
 Effectively communicate your findings and explain how it relates to each scenario
 
